@@ -1,4 +1,4 @@
-# AutomationFramework
+# Selenium framework
 
 <h3>Selenium Java Testing framework, along with Cucumber and jUnit</h3>
 
